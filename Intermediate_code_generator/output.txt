@@ -1,0 +1,17 @@
+
+	MOV R0 , a
+	ADD R0 , b
+	MOV C , R0
+	MOV R0 , b
+	SUB  R0 , c
+	MOV D , R0
+	MOV R0 , c
+	MUL R0 , d
+	MOV E , R0
+	MOV R0 , C
+	ADD R0 , D
+	MOV F , R0
+	MOV R0 , A
+	MOV B , R0
+	MOV R0 , A
+	MOV B , R0

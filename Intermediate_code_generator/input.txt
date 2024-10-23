@@ -1,0 +1,5 @@
++ a b C
+- b c D
+* c d E
++ C D F
+= A B B
